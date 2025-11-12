@@ -1,5 +1,7 @@
 #!/bin/bash
 
+sudo apt install gradle
+
 PROJECT_NAME="UPiL-Language"
 ROOT_DIR="$PWD/$PROJECT_NAME"
 
