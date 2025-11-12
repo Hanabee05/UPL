@@ -1,9 +1,3 @@
-Oke, aku bisa bantu poles README.md kamu biar tampilannya jauh lebih keren, terstruktur, dan menarik — cocok buat GitHub biar langsung *catchy* pas orang buka repo-nya.
-Dari isi file kamu, ini versi upgrade-nya (markdown modern, emoji balance, tabel rapi, blok kode diformat, dan sedikit gaya promosi open-source yang elegan):
-
----
-
-````markdown
 # 🐒 **UPiL – Ukong Programming Language**
 
 > Bahasa pemrograman **ultra-simpel** berbasis **Kotlin** dengan sintaks **100% Bahasa Indonesia**.  
@@ -203,16 +197,11 @@ Bebas digunakan di kelas, bootcamp, YouTube, atau dibuat versi modifikasimu send
 
 * 💬 **Telegram:** [t.me/upil_lingual](https://t.me/upil_lingual)
 * 🎮 **Discord:** [bit.ly/UPiL-Discord](https://bit.ly/UPiL-Discord)
-* 🐞 **Issue Tracker:** [GitHub Issues](https://github.com/username/UPiL-Language/issues)
+* 🐞 **Issue Tracker:** [GitHub Issues](https://github.com/Hanabee05/UPL/issues)
 
 ---
 
 > “Bahasa pemrograman tidak harus berbahasa Inggris.”
 > — **Ukong, 2025**
 
-```
-
----
-
-Mau sekalian aku tambahin **badge GitHub (build, license, version, Telegram group)** dan **banner ASCII/cyberpunk** di atas biar makin punya *vibe* proyek bahasa pemrograman lokal keren?
 ```
