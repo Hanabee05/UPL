@@ -18,7 +18,7 @@
 ### Linux / macOS / Windows (via WSL)
 
 ```bash
-git clone https://github.com/username/UPiL-Language.git
+git clone https://github.com/Hanabee05/UPL.git
 cd UPiL-Language
 chmod +x setup.sh && ./setup.sh    # cukup sekali
 ./gradlew run                      # jalankan contoh
@@ -203,5 +203,3 @@ Bebas digunakan di kelas, bootcamp, YouTube, atau dibuat versi modifikasimu send
 
 > “Bahasa pemrograman tidak harus berbahasa Inggris.”
 > — **Ukong, 2025**
-
-```
